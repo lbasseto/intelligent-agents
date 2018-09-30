@@ -1,0 +1,5 @@
+reactive/bin/*
+reactive/history.xml
+reactive/.classpath
+reactive/.project
+reactive/.settings/*
